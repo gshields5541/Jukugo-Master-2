@@ -14,6 +14,35 @@
 		CB4E27BA228B9227002BDD40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB4E27B8228B9227002BDD40 /* LaunchScreen.storyboard */; };
 		CB4E27C5228B9227002BDD40 /* Jukugo_Master_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27C4228B9227002BDD40 /* Jukugo_Master_2Tests.swift */; };
 		CB4E27D0228B9227002BDD40 /* Jukugo_Master_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27CF228B9227002BDD40 /* Jukugo_Master_2UITests.swift */; };
+		CB4E27E4228B936E002BDD40 /* level2.plist in Resources */ = {isa = PBXBuildFile; fileRef = CB4E27E1228B936E002BDD40 /* level2.plist */; };
+		CB4E27E5228B936E002BDD40 /* level1.plist in Resources */ = {isa = PBXBuildFile; fileRef = CB4E27E2228B936E002BDD40 /* level1.plist */; };
+		CB4E27E6228B936E002BDD40 /* level3.plist in Resources */ = {isa = PBXBuildFile; fileRef = CB4E27E3228B936E002BDD40 /* level3.plist */; };
+		CB4E27EC228B9433002BDD40 /* Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27EA228B9433002BDD40 /* Level.swift */; };
+		CB4E27ED228B9433002BDD40 /* GameData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27EB228B9433002BDD40 /* GameData.swift */; };
+		CB4E27F5228B9512002BDD40 /* StopwatchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27EE228B9512002BDD40 /* StopwatchView.swift */; };
+		CB4E27F6228B9512002BDD40 /* CounterLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27EF228B9512002BDD40 /* CounterLabelView.swift */; };
+		CB4E27F7228B9512002BDD40 /* TargetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27F0228B9512002BDD40 /* TargetView.swift */; };
+		CB4E27F8228B9512002BDD40 /* TileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27F1228B9512002BDD40 /* TileView.swift */; };
+		CB4E27F9228B9512002BDD40 /* ExplodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27F2228B9512002BDD40 /* ExplodeView.swift */; };
+		CB4E27FA228B9512002BDD40 /* StardustView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27F3228B9512002BDD40 /* StardustView.swift */; };
+		CB4E27FB228B9512002BDD40 /* HUDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27F4228B9512002BDD40 /* HUDView.swift */; };
+		CB4E27FE228B9568002BDD40 /* GameController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27FC228B9568002BDD40 /* GameController.swift */; };
+		CB4E27FF228B9568002BDD40 /* AudioController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27FD228B9568002BDD40 /* AudioController.swift */; };
+		CB4E2805228B961C002BDD40 /* Comic_Andy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB4E2804228B961C002BDD40 /* Comic_Andy.ttf */; };
+		CB4E2807228B9679002BDD40 /* particle.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E2806228B9679002BDD40 /* particle.png */; };
+		CB4E2811228B96F8002BDD40 /* slot@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E2808228B96F8002BDD40 /* slot@2x.png */; };
+		CB4E2812228B96F8002BDD40 /* tile.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E2809228B96F8002BDD40 /* tile.png */; };
+		CB4E2813228B96F8002BDD40 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E280A228B96F8002BDD40 /* board.png */; };
+		CB4E2814228B96F8002BDD40 /* btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E280B228B96F8002BDD40 /* btn@2x.png */; };
+		CB4E2815228B96F8002BDD40 /* btn.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E280C228B96F8002BDD40 /* btn.png */; };
+		CB4E2816228B96F8002BDD40 /* board@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E280D228B96F8002BDD40 /* board@3x.png */; };
+		CB4E2817228B96F8002BDD40 /* tile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E280E228B96F8002BDD40 /* tile@2x.png */; };
+		CB4E2818228B96F8002BDD40 /* board@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E280F228B96F8002BDD40 /* board@2x.png */; };
+		CB4E2819228B96F8002BDD40 /* slot.png in Resources */ = {isa = PBXBuildFile; fileRef = CB4E2810228B96F8002BDD40 /* slot.png */; };
+		CB4E281D228B9743002BDD40 /* win.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CB4E281A228B9743002BDD40 /* win.mp3 */; };
+		CB4E281E228B9743002BDD40 /* ding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CB4E281B228B9743002BDD40 /* ding.mp3 */; };
+		CB4E281F228B9743002BDD40 /* wrong.m4a in Resources */ = {isa = PBXBuildFile; fileRef = CB4E281C228B9743002BDD40 /* wrong.m4a */; };
+		CB4E2821228B9B67002BDD40 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E2820228B9B67002BDD40 /* Config.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +76,35 @@
 		CB4E27CB228B9227002BDD40 /* Jukugo Master 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Jukugo Master 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB4E27CF228B9227002BDD40 /* Jukugo_Master_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jukugo_Master_2UITests.swift; sourceTree = "<group>"; };
 		CB4E27D1228B9227002BDD40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB4E27E1228B936E002BDD40 /* level2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = level2.plist; sourceTree = "<group>"; };
+		CB4E27E2228B936E002BDD40 /* level1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = level1.plist; sourceTree = "<group>"; };
+		CB4E27E3228B936E002BDD40 /* level3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = level3.plist; sourceTree = "<group>"; };
+		CB4E27EA228B9433002BDD40 /* Level.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Level.swift; sourceTree = "<group>"; };
+		CB4E27EB228B9433002BDD40 /* GameData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameData.swift; sourceTree = "<group>"; };
+		CB4E27EE228B9512002BDD40 /* StopwatchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StopwatchView.swift; sourceTree = "<group>"; };
+		CB4E27EF228B9512002BDD40 /* CounterLabelView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CounterLabelView.swift; sourceTree = "<group>"; };
+		CB4E27F0228B9512002BDD40 /* TargetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TargetView.swift; sourceTree = "<group>"; };
+		CB4E27F1228B9512002BDD40 /* TileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TileView.swift; sourceTree = "<group>"; };
+		CB4E27F2228B9512002BDD40 /* ExplodeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExplodeView.swift; sourceTree = "<group>"; };
+		CB4E27F3228B9512002BDD40 /* StardustView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StardustView.swift; sourceTree = "<group>"; };
+		CB4E27F4228B9512002BDD40 /* HUDView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HUDView.swift; sourceTree = "<group>"; };
+		CB4E27FC228B9568002BDD40 /* GameController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameController.swift; sourceTree = "<group>"; };
+		CB4E27FD228B9568002BDD40 /* AudioController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioController.swift; sourceTree = "<group>"; };
+		CB4E2804228B961C002BDD40 /* Comic_Andy.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Comic_Andy.ttf; sourceTree = "<group>"; };
+		CB4E2806228B9679002BDD40 /* particle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = particle.png; path = "Jukugo Master 2/Assets/Particles/particle.png"; sourceTree = SOURCE_ROOT; };
+		CB4E2808228B96F8002BDD40 /* slot@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slot@2x.png"; sourceTree = "<group>"; };
+		CB4E2809228B96F8002BDD40 /* tile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tile.png; sourceTree = "<group>"; };
+		CB4E280A228B96F8002BDD40 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		CB4E280B228B96F8002BDD40 /* btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn@2x.png"; sourceTree = "<group>"; };
+		CB4E280C228B96F8002BDD40 /* btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn.png; sourceTree = "<group>"; };
+		CB4E280D228B96F8002BDD40 /* board@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "board@3x.png"; sourceTree = "<group>"; };
+		CB4E280E228B96F8002BDD40 /* tile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tile@2x.png"; sourceTree = "<group>"; };
+		CB4E280F228B96F8002BDD40 /* board@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "board@2x.png"; sourceTree = "<group>"; };
+		CB4E2810228B96F8002BDD40 /* slot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slot.png; sourceTree = "<group>"; };
+		CB4E281A228B9743002BDD40 /* win.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = win.mp3; sourceTree = "<group>"; };
+		CB4E281B228B9743002BDD40 /* ding.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ding.mp3; sourceTree = "<group>"; };
+		CB4E281C228B9743002BDD40 /* wrong.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = wrong.m4a; sourceTree = "<group>"; };
+		CB4E2820228B9B67002BDD40 /* Config.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +156,15 @@
 			isa = PBXGroup;
 			children = (
 				CB4E27AF228B9225002BDD40 /* AppDelegate.swift */,
-				CB4E27B1228B9225002BDD40 /* ViewController.swift */,
-				CB4E27B3228B9225002BDD40 /* Main.storyboard */,
+				CB4E27E0228B92D0002BDD40 /* Assets */,
 				CB4E27B6228B9227002BDD40 /* Assets.xcassets */,
-				CB4E27B8228B9227002BDD40 /* LaunchScreen.storyboard */,
+				CB4E27DF228B92B3002BDD40 /* Classes */,
+				CB4E2820228B9B67002BDD40 /* Config.swift */,
 				CB4E27BB228B9227002BDD40 /* Info.plist */,
+				CB4E27B8228B9227002BDD40 /* LaunchScreen.storyboard */,
+				CB4E27DD228B9294002BDD40 /* Levels */,
+				CB4E27B3228B9225002BDD40 /* Main.storyboard */,
+				CB4E27B1228B9225002BDD40 /* ViewController.swift */,
 			);
 			path = "Jukugo Master 2";
 			sourceTree = "<group>";
@@ -123,6 +185,111 @@
 				CB4E27D1228B9227002BDD40 /* Info.plist */,
 			);
 			path = "Jukugo Master 2UITests";
+			sourceTree = "<group>";
+		};
+		CB4E27DD228B9294002BDD40 /* Levels */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E27E2228B936E002BDD40 /* level1.plist */,
+				CB4E27E1228B936E002BDD40 /* level2.plist */,
+				CB4E27E3228B936E002BDD40 /* level3.plist */,
+			);
+			path = Levels;
+			sourceTree = "<group>";
+		};
+		CB4E27DF228B92B3002BDD40 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E27E9228B93C6002BDD40 /* Controllers */,
+				CB4E27E8228B93BB002BDD40 /* Views */,
+				CB4E27E7228B93B0002BDD40 /* Models */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		CB4E27E0228B92D0002BDD40 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E2801228B95C3002BDD40 /* Audio */,
+				CB4E2803228B95D4002BDD40 /* Fonts */,
+				CB4E2800228B95B8002BDD40 /* Images */,
+				CB4E2802228B95CC002BDD40 /* Particles */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		CB4E27E7228B93B0002BDD40 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E27EB228B9433002BDD40 /* GameData.swift */,
+				CB4E27EA228B9433002BDD40 /* Level.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CB4E27E8228B93BB002BDD40 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E27EF228B9512002BDD40 /* CounterLabelView.swift */,
+				CB4E27F2228B9512002BDD40 /* ExplodeView.swift */,
+				CB4E27F4228B9512002BDD40 /* HUDView.swift */,
+				CB4E27F3228B9512002BDD40 /* StardustView.swift */,
+				CB4E27EE228B9512002BDD40 /* StopwatchView.swift */,
+				CB4E27F0228B9512002BDD40 /* TargetView.swift */,
+				CB4E27F1228B9512002BDD40 /* TileView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CB4E27E9228B93C6002BDD40 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E27FD228B9568002BDD40 /* AudioController.swift */,
+				CB4E27FC228B9568002BDD40 /* GameController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		CB4E2800228B95B8002BDD40 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E280A228B96F8002BDD40 /* board.png */,
+				CB4E280F228B96F8002BDD40 /* board@2x.png */,
+				CB4E280D228B96F8002BDD40 /* board@3x.png */,
+				CB4E280C228B96F8002BDD40 /* btn.png */,
+				CB4E280B228B96F8002BDD40 /* btn@2x.png */,
+				CB4E2810228B96F8002BDD40 /* slot.png */,
+				CB4E2808228B96F8002BDD40 /* slot@2x.png */,
+				CB4E2809228B96F8002BDD40 /* tile.png */,
+				CB4E280E228B96F8002BDD40 /* tile@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		CB4E2801228B95C3002BDD40 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E281B228B9743002BDD40 /* ding.mp3 */,
+				CB4E281A228B9743002BDD40 /* win.mp3 */,
+				CB4E281C228B9743002BDD40 /* wrong.m4a */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		CB4E2802228B95CC002BDD40 /* Particles */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E2806228B9679002BDD40 /* particle.png */,
+			);
+			path = Particles;
+			sourceTree = "<group>";
+		};
+		CB4E2803228B95D4002BDD40 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E2804228B961C002BDD40 /* Comic_Andy.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,8 +396,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB4E2819228B96F8002BDD40 /* slot.png in Resources */,
+				CB4E2813228B96F8002BDD40 /* board.png in Resources */,
+				CB4E2818228B96F8002BDD40 /* board@2x.png in Resources */,
+				CB4E27E4228B936E002BDD40 /* level2.plist in Resources */,
+				CB4E2817228B96F8002BDD40 /* tile@2x.png in Resources */,
+				CB4E2812228B96F8002BDD40 /* tile.png in Resources */,
 				CB4E27BA228B9227002BDD40 /* LaunchScreen.storyboard in Resources */,
+				CB4E27E5228B936E002BDD40 /* level1.plist in Resources */,
+				CB4E2807228B9679002BDD40 /* particle.png in Resources */,
+				CB4E281D228B9743002BDD40 /* win.mp3 in Resources */,
+				CB4E2805228B961C002BDD40 /* Comic_Andy.ttf in Resources */,
+				CB4E2814228B96F8002BDD40 /* btn@2x.png in Resources */,
+				CB4E2815228B96F8002BDD40 /* btn.png in Resources */,
+				CB4E2811228B96F8002BDD40 /* slot@2x.png in Resources */,
+				CB4E2816228B96F8002BDD40 /* board@3x.png in Resources */,
+				CB4E27E6228B936E002BDD40 /* level3.plist in Resources */,
 				CB4E27B7228B9227002BDD40 /* Assets.xcassets in Resources */,
+				CB4E281E228B9743002BDD40 /* ding.mp3 in Resources */,
+				CB4E281F228B9743002BDD40 /* wrong.m4a in Resources */,
 				CB4E27B5228B9225002BDD40 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,8 +440,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB4E27F9228B9512002BDD40 /* ExplodeView.swift in Sources */,
+				CB4E27FE228B9568002BDD40 /* GameController.swift in Sources */,
+				CB4E27F6228B9512002BDD40 /* CounterLabelView.swift in Sources */,
+				CB4E2821228B9B67002BDD40 /* Config.swift in Sources */,
+				CB4E27FA228B9512002BDD40 /* StardustView.swift in Sources */,
+				CB4E27EC228B9433002BDD40 /* Level.swift in Sources */,
+				CB4E27F8228B9512002BDD40 /* TileView.swift in Sources */,
+				CB4E27ED228B9433002BDD40 /* GameData.swift in Sources */,
+				CB4E27FB228B9512002BDD40 /* HUDView.swift in Sources */,
 				CB4E27B2228B9225002BDD40 /* ViewController.swift in Sources */,
+				CB4E27F5228B9512002BDD40 /* StopwatchView.swift in Sources */,
 				CB4E27B0228B9225002BDD40 /* AppDelegate.swift in Sources */,
+				CB4E27FF228B9568002BDD40 /* AudioController.swift in Sources */,
+				CB4E27F7228B9512002BDD40 /* TargetView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,15 +629,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H92GAQ5MQY;
 				INFOPLIST_FILE = "Jukugo Master 2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "gerald.shields.Jukugo-Master-2";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.geraldshields.Jukugo-Master-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -450,15 +647,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H92GAQ5MQY;
 				INFOPLIST_FILE = "Jukugo Master 2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "gerald.shields.Jukugo-Master-2";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.geraldshields.Jukugo-Master-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};

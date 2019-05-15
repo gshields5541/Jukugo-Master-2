@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compounds</key>
+	<array>
+		<array>
+			<string>朝飯ご肉港</string>
+			<string>港</string>
+			<string>harbor</string>
+		</array>
+		<array>
+			<string>朝飯ご空港着</string>
+			<string>空港</string>
+			<string>airport</string>
+		</array>
+		<array>
+			<string>朝飯着ご肉牛物</string>
+			<string>着物</string>
+			<string>着物</string>
+		</array>
+		<array>
+			<string>朝飯着ご肉牛物る</string>
+			<string>着る</string>
+			<string>wear</string>
+		</array>
+		<array>
+			<string>朝飯着ご肉牛物く</string>
+			<string>着く</string>
+			<string>arrive</string>
+		</array>
+		<array>
+			<string>朝飯ご肉同空じ</string>
+			<string>同じ</string>
+			<string>same</string>
+		</array>
+		<array>
+			<string>物み理い同料空買金気朝飯ご肉時</string>
+			<string>同時</string>
+			<string>same time</string>
+		</array>
+		<array>
+			<string>特み理い海空料買金に手</string>
+			<string>海</string>
+			<string>sea</string>
+		</array>
+		<array>
+			<string>特み理海い気安分買金に外</string>
+			<string>海外</string>
+			<string>foreign</string>
+		</array>
+		<array>
+			<string>特心ご理い飯悪安買金にい昼</string>
+			<string>昼ご飯</string>
+			<string>lunch</string>
+		</array>
+	</array>
+	<key>timeToSolve</key>
+	<integer>200</integer>
+	<key>pointsPerTile</key>
+	<integer>10</integer>
+</dict>
+</plist>

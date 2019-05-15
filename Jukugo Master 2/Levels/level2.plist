@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compounds</key>
+	<array>
+		<array>
+			<string>朝飯ご肉</string>
+			<string>朝ご飯</string>
+			<string>breakfast</string>
+		</array>
+		<array>
+			<string>朝飯ご肉</string>
+			<string>肉</string>
+			<string>meat</string>
+		</array>
+		<array>
+			<string>朝飯ご肉牛</string>
+			<string>牛肉</string>
+			<string>beef</string>
+		</array>
+		<array>
+			<string>朝不飯ご肉安</string>
+			<string>不安</string>
+			<string>anxiety</string>
+		</array>
+		<array>
+			<string>朝飯ご体肉</string>
+			<string>体</string>
+			<string>body</string>
+		</array>
+		<array>
+			<string>朝飯ご肉空</string>
+			<string>空</string>
+			<string>sky</string>
+		</array>
+		<array>
+			<string>物み理い料空買金気朝飯ご肉</string>
+			<string>空気</string>
+			<string>air</string>
+		</array>
+		<array>
+			<string>特み理い空料買金に手</string>
+			<string>空手</string>
+			<string>karate</string>
+		</array>
+		<array>
+			<string>特み理い気安分買金に</string>
+			<string>気分</string>
+			<string>feeling</string>
+		</array>
+		<array>
+			<string>特心理い悪安買金にい</string>
+			<string>悪い</string>
+			<string>bad</string>
+		</array>
+	</array>
+	<key>timeToSolve</key>
+	<integer>200</integer>
+	<key>pointsPerTile</key>
+	<integer>10</integer>
+</dict>
+</plist>

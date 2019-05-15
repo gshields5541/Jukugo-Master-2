@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compounds</key>
+	<array>
+		<array>
+			<string>お犬宅着物</string>
+			<string>お宅</string>
+			<string>house</string>
+		</array>
+		<array>
+			<string>物え飲鳥い白買</string>
+			<string>買い物</string>
+			<string>shopping</string>
+		</array>
+		<array>
+			<string>物み飲い白買</string>
+			<string>飲み物</string>
+			<string>beverage</string>
+		</array>
+		<array>
+			<string>物外み国白語鳥</string>
+			<string>外国語</string>
+			<string>foreign language</string>
+		</array>
+		<array>
+			<string>物着飲物白買鳥</string>
+			<string>着物</string>
+			<string>Kimono</string>
+		</array>
+		<array>
+			<string>物み理い料買鳥</string>
+			<string>料理 </string>
+			<string>cooking</string>
+		</array>
+		<array>
+			<string>物み理い料買金</string>
+			<string>料金</string>
+			<string>charge</string>
+		</array>
+		<array>
+			<string>特み告料買広</string>
+			<string>広告</string>
+			<string>advertisement</string>
+		</array>
+		<array>
+			<string>特葉い安言に</string>
+			<string>言葉</string>
+			<string>word</string>
+		</array>
+		<array>
+			<string>特心法安文</string>
+			<string>文法</string>
+			<string>grammar</string>
+		</array>
+	</array>
+	<key>timeToSolve</key>
+	<integer>200</integer>
+	<key>pointsPerTile</key>
+	<integer>10</integer>
+</dict>
+</plist>
