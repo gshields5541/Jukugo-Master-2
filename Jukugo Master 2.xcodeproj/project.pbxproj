@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB2A0D4D22965D010035C6E2 /* splashScreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB2A0D4A22965D010035C6E2 /* splashScreen@2x.png */; };
+		CB2A0D4E22965D010035C6E2 /* splashScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = CB2A0D4B22965D010035C6E2 /* splashScreen.png */; };
+		CB2A0D4F22965D010035C6E2 /* splashScreen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB2A0D4C22965D010035C6E2 /* splashScreen@3x.png */; };
 		CB4E27B0228B9225002BDD40 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27AF228B9225002BDD40 /* AppDelegate.swift */; };
 		CB4E27B2228B9225002BDD40 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E27B1228B9225002BDD40 /* ViewController.swift */; };
 		CB4E27B5228B9225002BDD40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB4E27B3228B9225002BDD40 /* Main.storyboard */; };
@@ -63,6 +66,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CB2A0D4A22965D010035C6E2 /* splashScreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "splashScreen@2x.png"; path = "../../../../../Creative Cloud Files/splashScreen@2x.png"; sourceTree = "<group>"; };
+		CB2A0D4B22965D010035C6E2 /* splashScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = splashScreen.png; path = "../../../../../Creative Cloud Files/splashScreen.png"; sourceTree = "<group>"; };
+		CB2A0D4C22965D010035C6E2 /* splashScreen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "splashScreen@3x.png"; path = "../../../../../Creative Cloud Files/splashScreen@3x.png"; sourceTree = "<group>"; };
 		CB4E27AC228B9225002BDD40 /* Jukugo Master 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Jukugo Master 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB4E27AF228B9225002BDD40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB4E27B1228B9225002BDD40 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -253,6 +259,9 @@
 		CB4E2800228B95B8002BDD40 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				CB2A0D4B22965D010035C6E2 /* splashScreen.png */,
+				CB2A0D4A22965D010035C6E2 /* splashScreen@2x.png */,
+				CB2A0D4C22965D010035C6E2 /* splashScreen@3x.png */,
 				CB4E280A228B96F8002BDD40 /* board.png */,
 				CB4E280F228B96F8002BDD40 /* board@2x.png */,
 				CB4E280D228B96F8002BDD40 /* board@3x.png */,
@@ -401,17 +410,20 @@
 				CB4E2818228B96F8002BDD40 /* board@2x.png in Resources */,
 				CB4E27E4228B936E002BDD40 /* level2.plist in Resources */,
 				CB4E2817228B96F8002BDD40 /* tile@2x.png in Resources */,
+				CB2A0D4E22965D010035C6E2 /* splashScreen.png in Resources */,
 				CB4E2812228B96F8002BDD40 /* tile.png in Resources */,
 				CB4E27BA228B9227002BDD40 /* LaunchScreen.storyboard in Resources */,
 				CB4E27E5228B936E002BDD40 /* level1.plist in Resources */,
 				CB4E2807228B9679002BDD40 /* particle.png in Resources */,
 				CB4E281D228B9743002BDD40 /* win.mp3 in Resources */,
+				CB2A0D4F22965D010035C6E2 /* splashScreen@3x.png in Resources */,
 				CB4E2805228B961C002BDD40 /* Comic_Andy.ttf in Resources */,
 				CB4E2814228B96F8002BDD40 /* btn@2x.png in Resources */,
 				CB4E2815228B96F8002BDD40 /* btn.png in Resources */,
 				CB4E2811228B96F8002BDD40 /* slot@2x.png in Resources */,
 				CB4E2816228B96F8002BDD40 /* board@3x.png in Resources */,
 				CB4E27E6228B936E002BDD40 /* level3.plist in Resources */,
+				CB2A0D4D22965D010035C6E2 /* splashScreen@2x.png in Resources */,
 				CB4E27B7228B9227002BDD40 /* Assets.xcassets in Resources */,
 				CB4E281E228B9743002BDD40 /* ding.mp3 in Resources */,
 				CB4E281F228B9743002BDD40 /* wrong.m4a in Resources */,
@@ -666,6 +678,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H92GAQ5MQY;
 				INFOPLIST_FILE = "Jukugo Master 2Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -686,6 +699,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H92GAQ5MQY;
 				INFOPLIST_FILE = "Jukugo Master 2Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -705,6 +719,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H92GAQ5MQY;
 				INFOPLIST_FILE = "Jukugo Master 2UITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -724,6 +739,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H92GAQ5MQY;
 				INFOPLIST_FILE = "Jukugo Master 2UITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

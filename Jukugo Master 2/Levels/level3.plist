@@ -5,54 +5,49 @@
 	<key>compounds</key>
 	<array>
 		<array>
-			<string>朝飯ご肉港</string>
-			<string>港</string>
-			<string>harbor</string>
+			<string>白面度安々</string>
+			<string>度々</string>
+			<string>often</string>
 		</array>
 		<array>
-			<string>朝飯ご空港着</string>
-			<string>空港</string>
-			<string>airport</string>
+			<string>白時度安々</string>
+			<string>時々</string>
+			<string>sometimes</string>
 		</array>
 		<array>
-			<string>朝飯着ご肉牛物</string>
-			<string>着物</string>
-			<string>着物</string>
+			<string>にた度ま々</string>
+			<string>たまに</string>
+			<string>occaisonally</string>
 		</array>
 		<array>
-			<string>朝飯着ご肉牛物る</string>
-			<string>着る</string>
-			<string>wear</string>
+			<string>とも度て々</string>
+			<string>とても</string>
+			<string>very</string>
 		</array>
 		<array>
-			<string>朝飯着ご肉牛物く</string>
-			<string>着く</string>
-			<string>arrive</string>
+			<string>ずと度っ々</string>
+			<string>ずっと</string>
+			<string>throughout</string>
 		</array>
 		<array>
-			<string>朝飯ご肉同空じ</string>
-			<string>同じ</string>
-			<string>same</string>
+			<string>すとぐっに</string>
+			<string>すぐに</string>
+			<string>right away</string>
 		</array>
 		<array>
-			<string>物み理い同料空買金気朝飯ご肉時</string>
-			<string>同時</string>
-			<string>same time</string>
+			<string>そうのちっに</string>
+			<string>そのうちに</string>
+			<string>soon</string>
 		</array>
 		<array>
-			<string>特み理い海空料買金に手</string>
-			<string>海</string>
-			<string>sea</string>
+			<string>そっのきっさ</string>
+			<string>さっき</string>
+			<string>soon</string>
 		</array>
 		<array>
-			<string>特み理海い気安分買金に外</string>
-			<string>海外</string>
-			<string>foreign</string>
-		</array>
-		<array>
-			<string>特心ご理い飯悪安買金にい昼</string>
-			<string>昼ご飯</string>
-			<string>lunch</string>
+			<string>そったっま</string>
+			<string>また</string>
+			<string>soon</string>
 		</array>
 	</array>
 	<key>timeToSolve</key>

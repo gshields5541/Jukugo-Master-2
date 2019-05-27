@@ -9,43 +9,48 @@
 			<string>お宅</string>
 			<string>house</string>
 		</array>
+        <array>
+            <string>朝飯ご肉牛</string>
+            <string>牛肉</string>
+            <string>beef</string>
+        </array>
 		<array>
-			<string>物え飲鳥い白買</string>
+			<string>物え飲い買</string>
 			<string>買い物</string>
 			<string>shopping</string>
 		</array>
 		<array>
-			<string>物み飲い白買</string>
+			<string>物み飲い買</string>
 			<string>飲み物</string>
 			<string>beverage</string>
 		</array>
 		<array>
-			<string>物外み国白語鳥</string>
+			<string>物外み国語</string>
 			<string>外国語</string>
 			<string>foreign language</string>
 		</array>
 		<array>
-			<string>物着飲物白買鳥</string>
+			<string>物着飲物白</string>
 			<string>着物</string>
 			<string>Kimono</string>
 		</array>
 		<array>
-			<string>物み理い料買鳥</string>
+			<string>物み理い料</string>
 			<string>料理 </string>
 			<string>cooking</string>
 		</array>
 		<array>
-			<string>物み理い料買金</string>
+			<string>物み料買金</string>
 			<string>料金</string>
 			<string>charge</string>
 		</array>
 		<array>
-			<string>特み告料買広</string>
+			<string>特告料買広</string>
 			<string>広告</string>
 			<string>advertisement</string>
 		</array>
 		<array>
-			<string>特葉い安言に</string>
+			<string>特葉い安言</string>
 			<string>言葉</string>
 			<string>word</string>
 		</array>
@@ -54,6 +59,86 @@
 			<string>文法</string>
 			<string>grammar</string>
 		</array>
+        <array>
+            <string>朝飯ご体肉</string>
+            <string>体</string>
+            <string>body</string>
+        </array>
+        <array>
+            <string>朝飯ご肉空</string>
+            <string>空</string>
+            <string>sky</string>
+        </array>
+        <array>
+            <string>物料空買金気</string>
+            <string>空気</string>
+            <string>air</string>
+        </array>
+        <array>
+            <string>朝飯ご肉中</string>
+            <string>朝ご飯</string>
+            <string>breakfast</string>
+        </array>
+        <array>
+            <string>朝飯ご肉中</string>
+            <string>肉</string>
+            <string>meat</string>
+        </array>
+        <array>
+            <string>特空料買手</string>
+            <string>空手</string>
+            <string>karate</string>
+        </array>
+        <array>
+            <string>朝飯ご肉港</string>
+            <string>港</string>
+            <string>harbor</string>
+        </array>
+        <array>
+            <string>朝飯空着港</string>
+            <string>空港</string>
+            <string>airport</string>
+        </array>
+        <array>
+            <string>着ご肉牛物</string>
+            <string>着物</string>
+            <string>kimono</string>
+        </array>
+        <array>
+            <string>朝飯着ごる</string>
+            <string>着る</string>
+            <string>wear</string>
+        </array>
+        <array>
+            <string>朝飯着ごく</string>
+            <string>着く</string>
+            <string>arrive</string>
+        </array>
+        <array>
+            <string>朝飯同空じ</string>
+            <string>同じ</string>
+            <string>same</string>
+        </array>
+        <array>
+            <string>物同料空時</string>
+            <string>同時</string>
+            <string>same time</string>
+        </array>
+        <array>
+            <string>特い海空料</string>
+            <string>海</string>
+            <string>sea</string>
+        </array>
+        <array>
+            <string>理海い気外</string>
+            <string>海外</string>
+            <string>foreign</string>
+        </array>
+        <array>
+            <string>ご理い飯昼</string>
+            <string>昼ご飯</string>
+            <string>lunch</string>
+        </array>
 	</array>
 	<key>timeToSolve</key>
 	<integer>200</integer>

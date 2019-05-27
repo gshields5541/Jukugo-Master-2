@@ -5,55 +5,55 @@
 	<key>compounds</key>
 	<array>
 		<array>
-			<string>朝飯ご肉</string>
-			<string>朝ご飯</string>
-			<string>breakfast</string>
-		</array>
-		<array>
-			<string>朝飯ご肉</string>
-			<string>肉</string>
-			<string>meat</string>
-		</array>
-		<array>
-			<string>朝飯ご肉牛</string>
-			<string>牛肉</string>
-			<string>beef</string>
-		</array>
-		<array>
-			<string>朝不飯ご肉安</string>
+			<string>朝不飯ご安</string>
 			<string>不安</string>
 			<string>anxiety</string>
 		</array>
+        <array>
+            <string>新暑しえい</string>
+            <string>新しい</string>
+            <string>new</string>
+        </array>
+        <array>
+            <string>新暑しえい</string>
+            <string>暑い</string>
+            <string>hot(weather)</string>
+        </array>
+        <array>
+            <string>新熱暑しい</string>
+            <string>熱い</string>
+            <string>hot(thing)</string>
+        </array>
 		<array>
-			<string>朝飯ご体肉</string>
-			<string>体</string>
-			<string>body</string>
-		</array>
-		<array>
-			<string>朝飯ご肉空</string>
-			<string>空</string>
-			<string>sky</string>
-		</array>
-		<array>
-			<string>物み理い料空買金気朝飯ご肉</string>
-			<string>空気</string>
-			<string>air</string>
-		</array>
-		<array>
-			<string>特み理い空料買金に手</string>
-			<string>空手</string>
-			<string>karate</string>
-		</array>
-		<array>
-			<string>特み理い気安分買金に</string>
+			<string>特気安分買</string>
 			<string>気分</string>
 			<string>feeling</string>
 		</array>
 		<array>
-			<string>特心理い悪安買金にい</string>
+			<string>特理悪安い</string>
 			<string>悪い</string>
 			<string>bad</string>
 		</array>
+        <array>
+            <string>し忙悪安い</string>
+            <string>忙しい</string>
+            <string>busy</string>
+        </array>
+        <array>
+            <string>大忙き安い</string>
+            <string>大きい</string>
+            <string>large</string>
+        </array>
+        <array>
+            <string>白面き安い</string>
+            <string>面白い</string>
+            <string>funny</string>
+        </array>
+        <array>
+            <string>かっ白面こい安い</string>
+            <string>かっこいい</string>
+            <string>handsome</string>
+        </array>
 	</array>
 	<key>timeToSolve</key>
 	<integer>200</integer>
