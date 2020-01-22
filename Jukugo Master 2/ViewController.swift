@@ -68,6 +68,8 @@ class ViewController: UIViewController {
                                         self.showLevel(levelNumber: 3)
         })
         
+        //let purchaseJLPTPack = UIAlertAction(title: "Purchase JLPT Packs", style: default, handler: {(alert:UIAlertAction!) in self.showLevelMenu()})
+        
         //3 add the menu actions to the menu
         alertController.addAction(nouns)
         alertController.addAction(adjectives)
