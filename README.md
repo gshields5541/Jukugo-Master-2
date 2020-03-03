@@ -1,0 +1,1 @@
+An app that helps you remember various Japanese vocabulary (Nouns, Verbs Adverbs, and Adjectives). Use your knowledge of Japanese to solve the puzzle. (Disclaimer: To become a true "Jukugo Master", you must learn some Japanese)
